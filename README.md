@@ -1,4 +1,4 @@
-# com.oosl.colorostool
+# ColorOSTool
 
 增强ColorOS使用体验
 
