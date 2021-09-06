@@ -12,4 +12,4 @@
 ## 注意事项
 - 安装或更新模块后，请强行停止推荐HOOK的应用以生效。 
 - 切换模块功能开关后，请强行停止推荐HOOK的应用以生效。 
-- 当前仅在 ColorOS For OnePlus 上测试过。
+- 当前仅在 ColorOS v11.2 For OnePlus 上测试过。
