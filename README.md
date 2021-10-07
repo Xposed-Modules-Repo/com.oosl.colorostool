@@ -1,6 +1,6 @@
 # ColorOSTool
 
-增强 ColorOS(For OnePlus) 使用体验
+增强 ColorOS 12(For OnePlus) 使用体验
 
 ## 当前功能：
 - 解除只允许5个非白名单应用自启动的限制  
@@ -15,4 +15,4 @@
 ## 注意事项
 - 安装或更新模块后，请强行停止推荐HOOK的应用以生效。 
 - 切换模块功能开关后，请强行停止推荐HOOK的应用以生效。 
-- 当前仅在 ColorOS v12 For OnePlus 上测试过。
+- 当前仅在 ColorOS 12 For OnePlus 上测试过。
